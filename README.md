@@ -8,19 +8,26 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 
-![Screenshot 2023-09-22 142357](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/89348e67-73c0-46aa-b4c3-62fc73a9210e)
 
-![Screenshot 2023-09-22 142401](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/58d8395e-692f-4336-bfa2-2bab6db798ba)
-
-![Screenshot 2023-09-22 142435](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/925bada3-3356-4df9-8e33-cd4cbde503ff)
+![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/939fb17a-00d3-4db1-97cb-d63a1eb08c5a)
 
 
-![Screenshot 2023-09-22 142456](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/f1e4ecac-b56e-4bd9-8b15-6f1d347c1ba1)
+
+![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/8276eedc-eda8-406d-95f4-2e01d0b69984)
 
 
-![Screenshot 2023-09-22 142511](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/4462cb7b-ccb8-42d8-a9fe-686574d4d2aa)
+![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/19ffbc25-6ac2-44c3-8cfc-35507057fb25)
 
 
+![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/6a0ab8d7-eb1d-4c46-9e4b-ec2940017a74)
+
+
+
+![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/3acca26c-3f18-4863-b4ab-bcfae710df94)
+
+
+
+![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/e7cbaa6b-3b99-40c0-8cf2-6d8cfec8a178)
 
 
 ### RESULT: 
