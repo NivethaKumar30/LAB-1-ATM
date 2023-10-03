@@ -23,8 +23,8 @@ to withdraw money,deposit.
 ![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/6a0ab8d7-eb1d-4c46-9e4b-ec2940017a74)
 
 
+![Screenshot 2023-10-03 135654](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/c607fd69-4d80-46e5-97fa-424de217bda3)
 
-![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/3acca26c-3f18-4863-b4ab-bcfae710df94)
 
 
 ![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/a55baf41-1a64-4d2b-8b6e-c40b4cd0121b)
