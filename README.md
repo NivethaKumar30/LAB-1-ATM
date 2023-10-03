@@ -9,7 +9,8 @@ to withdraw money,deposit.
 ### UML DIAGRAMS:
 
 
-![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/939fb17a-00d3-4db1-97cb-d63a1eb08c5a)
+![Screenshot 2023-10-03 135355](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/f2a85be9-cc14-46dc-a2c6-5a002415e53a)
+
 
 
 
@@ -26,9 +27,15 @@ to withdraw money,deposit.
 ![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/3acca26c-3f18-4863-b4ab-bcfae710df94)
 
 
+![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/a55baf41-1a64-4d2b-8b6e-c40b4cd0121b)
 
-![image](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/e7cbaa6b-3b99-40c0-8cf2-6d8cfec8a178)
+
+
+![Screenshot 2023-10-03 135208](https://github.com/NivethaKumar30/LAB-1-ATM/assets/119559844/f3c2ecfe-2cb0-42f4-b1c6-320495db28eb)
+
+
 
 
 ### RESULT: 
+
 Thus the Atm and banking System project was executed and the output was verified.
